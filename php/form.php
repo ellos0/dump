@@ -10,3 +10,5 @@
     <input type="text" name="username" size="40">
     <input type="submit">
   </form>
+</body>
+</html>
